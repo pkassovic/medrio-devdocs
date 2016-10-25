@@ -95,7 +95,7 @@ def grabfile():
 
 #SAMPLE SETTINGS
 #HARDCODE API KEY AND SERVER INSTANCE HERE
-api_key = "AUoYe5PfGNPmTqerFEti"
+api_key = ""
 server = "na4"
 
 read_payload()
