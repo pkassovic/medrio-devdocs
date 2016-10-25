@@ -106,7 +106,7 @@ def grabfile():
 
 #SAMPLE SETTINGS
 #COMMENT THE NEXT TWO LINES FOR LIVE
-api_key = "AUoYe5PfGNPmTqerFEti"
+api_key = ""
 server = "na4"
 
 #api_key_menu()
