@@ -18,7 +18,7 @@ body= """<?xml version="1.0" encoding="UTF-8"?>
     </SubjectData>
   </ClinicalData>
 </ODM></med:file>
-         <med:apiKey>9ybj7gngNSC1AtzQj0hJ</med:apiKey>
+         <med:apiKey>APIKEYHERE</med:apiKey>
       </med:SubmitODMImport>
    </soap:Body>
 </soap:Envelope>"""
